@@ -16,8 +16,8 @@ public class Klass {
     private String name;
     private List<Student> students;
 
-    public Klass(KlassProperties klassProperties, Student student) {
+    public Klass(KlassProperties klassProperties) {
         this.name = klassProperties.getName();
-        this.students.add(student);
+        this.students = klassProperties.getStudents();
     }
 }
