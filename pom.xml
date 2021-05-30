@@ -10,7 +10,7 @@
     </parent>
     <groupId>kxw07.github.starter</groupId>
     <artifactId>kxw07-spring-boot-starter</artifactId>
-    <version>1.13-SNAPSHOT</version>
+    <version>1.14-SNAPSHOT</version>
     <name>kxw07-spring-boot-starter</name>
     <description>Demo project for Spring Boot</description>
 
