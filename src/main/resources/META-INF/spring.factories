@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration =\
+   kxw07.github.starter.Kxw07AutoConfigure,\
+   kxw07.github.starter.stu.StudentAutoConfigure,\
+   kxw07.github.starter.kla.KlassAutoConfigure
